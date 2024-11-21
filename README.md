@@ -7,4 +7,5 @@ Trong cuộc sống ngày nay, ai cũng bận rộn với nhiều công việc k
 -ESP32
 -Cảm biến độ ẩm đất điện dung
 -cảm biến nhiệt độ độ ẩm DHT11
+
 ![So_do_khoi](https://github.com/user-attachments/assets/51e17bec-dbc4-455e-ad6d-aeda62d09b31)
