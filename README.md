@@ -6,6 +6,13 @@ Trong cuộc sống ngày nay, ai cũng bận rộn với nhiều công việc k
 # Linh kiện sử dụng
 -ESP32
 -Cảm biến độ ẩm đất điện dung
--cảm biến nhiệt độ độ ẩm DHT11
+-module relay 1 kênh 5V
+- Máy bơm mini 5V
+# kết nối linh kiện
+- Cảm biến độ ẩm đất điện dung cắm vào chân A0
+- Module relay cắm vào chân 17
+- Máy bơm mini kết nối với relay
+  
 
-![So_do_khoi](https://github.com/user-attachments/assets/51e17bec-dbc4-455e-ad6d-aeda62d09b31)
+
+![sơ đồ khối hệ thống tưới cây](https://github.com/user-attachments/assets/e7bba80b-871d-4c67-9a51-5c21c02c320b)
