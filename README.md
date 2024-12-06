@@ -14,7 +14,7 @@ Trong cuộc sống ngày nay, ai cũng bận rộn với nhiều công việc k
 - Máy bơm mini kết nối với relay
   
 
-sơ đồ khối bài giũa kì
+sơ đồ khối bài giữa kì
 ![sơ đồ khối hệ thống tưới cây](https://github.com/user-attachments/assets/e7bba80b-871d-4c67-9a51-5c21c02c320b)
 
 node-red
